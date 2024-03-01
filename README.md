@@ -1,1 +1,1 @@
-# BDDiffSeg
+# BGDiffSeg
